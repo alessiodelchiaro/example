@@ -2,6 +2,7 @@
 bugfix
 
 
+terzefeature
 altra feature
 nuovo branch
 newfeature
